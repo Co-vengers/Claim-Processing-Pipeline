@@ -7,3 +7,4 @@ langchain-openai
 langchain-core
 python-dotenv
 pdf2image
+pytesseract
